@@ -9,4 +9,4 @@ Email Application
 
 6. You can always extend the application , feel free using the source code
 
-7. www.angeloviliyan.com
+7. https://angeloviliyan.com
